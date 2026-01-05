@@ -1,0 +1,4 @@
+# Turkuaz-RSÜ Projesi
+# Bu proje sadece Python standart kütüphanelerini kullanır
+# Ek bağımlılık gerekmez
+
