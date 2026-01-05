@@ -195,4 +195,6 @@ Katkılarınızı bekliyoruz! Lütfen pull request göndermeden önce kodunuzu t
 
 ## Yazar
 
-Turkuaz-RSÜ Projesi
+Şerif Bayram.
+
+Not: Gemini ve Cursor tarafından desteklendi.
